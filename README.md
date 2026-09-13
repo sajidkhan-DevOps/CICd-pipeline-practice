@@ -1,2 +1,2 @@
-# CICd-pipeline-practice
-Builed CI/CD automation first
+# git-practice-with-other-branches
+lz parent module
